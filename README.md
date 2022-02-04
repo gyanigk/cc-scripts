@@ -45,3 +45,12 @@ projects
 	-> /misc
 	-> README.md
 ```
+
+### resources and helpful sites 
+- https://codeforces.com/blog/entry/93882
+- https://www.horcrux2301.dev/my-competitive-programming-setup/
+- https://linuxize.com/post/bash-case-statement/
+- https://linuxhint.com/30_bash_script_examples/#t15
+
+
+
